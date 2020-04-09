@@ -1,6 +1,6 @@
 
 # Ignore single file
-another-file.txt
+new-file.txt
 
 # Ignore bin folder files
 bin/
